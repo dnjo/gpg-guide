@@ -1,7 +1,7 @@
 # GPG and git guide
 
 ## Introduction
-This guide mainly focuses on using GPG together with git and and services such as GitHub and GitLab from the perspective of a developer. It is therefore fairly practical and does not cover the various security concepts that is used by GPG.
+This guide mainly focuses on using GPG together with git and services such as GitHub and GitLab from the perspective of a developer. It is therefore fairly practical and does not cover the various security concepts that is used by GPG.
 
 The main benefits of using GPG as a developer/git user:
 - I can certify that I have made a certain change by signing my git commits.
